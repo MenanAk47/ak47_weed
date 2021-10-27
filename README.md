@@ -1,6 +1,6 @@
 <h1>Weed Field With Processing || ESX Framework</h1>
 <p>Required minumum <span style="color: #339966;">$1</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
-<p><strong>Video Showcase:</strong> <a href="https://youtu.be/p_6cTE_wUJY">https://youtu.be/5uYtk9brQGc</a></p>
+<p><strong>Video Showcase:</strong> <a href="https://youtu.be/p_6cTE_wUJY">YouTube</a></p>
 <p><strong>Features:</strong></p>
 <ol>
 <li>A field where weed plant grow</li>
